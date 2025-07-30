@@ -60,7 +60,9 @@ password-security-tool/
 └── venv/                          # Python virtual environment (excluded from Git)
 
 
+
 ---
+
 
 
 ## 🔧 Installation
