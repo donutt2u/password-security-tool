@@ -59,11 +59,7 @@ password-security-tool/
 ├── README.md                      # Project documentation
 └── venv/                          # Python virtual environment (excluded from Git)
 
-
-
 ---
-
-
 
 ## 🔧 Installation
 
